@@ -1,9 +1,11 @@
+import Sys
+OS.system("clear")
 print ("HACK PULSA BY BGKE04")
 print ("PULSA MURAH TERBARU 2023")
 print ("")
 no = input("NO TELEPHONE:")
 print ("")
-toy = print ("WAITING")
+print ("WAITING")
 import time
 time.sleep(1)
 print ("SUCCES HACKING PULSA NOMOR ",no)
