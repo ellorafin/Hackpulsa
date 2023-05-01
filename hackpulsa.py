@@ -1,5 +1,4 @@
 import sys
-os.system("clear")
 print ("HACK PULSA BY BGKE04")
 print ("PULSA MURAH TERBARU 2023")
 print ("")
