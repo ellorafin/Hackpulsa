@@ -1,5 +1,7 @@
 import os
 os.system ("clear")
+os.system ("neofetch")
+os.system ("figlet HACK PULSA BY BGKE 04")
 print ("HACK PULSA BY BGKE04")
 print ("PULSA MURAH TERBARU 2023")
 print ("")
@@ -25,4 +27,5 @@ time.sleep(1)
 print ("083194920431")
 time.sleep(1)
 print ("PEMBAYARAN BISA VIA: DANA,GOPAY,PULSA")
-
+print ("sedang mengecek pembayaran")
+os.system ("ping gogle.com")
